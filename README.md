@@ -6,7 +6,7 @@
 
 
 
-#*注意！项目为敏感项目，能不star就不star*
+#*注意！项目为敏感项目，请低调使用和开发*
 
 *这是一个fork过的版本，原作者主页此项目已下架并不再维护。请酌情使用*
 
@@ -24,7 +24,7 @@ _*腾讯严查这种针对微信、qq的机器人框架，大家尽量自己用�
 - 查看 [常见问题](docs/FAQ.md)
 - 查看 [常用示例](examples)
 - 查看 [NtWorkHttp接口示例](fastapi_example)  
-- 加入群聊 [NtWork交流群](https://jq.qq.com/?_wv=1027&k=y8d0wpXJ)
+- 查看 【2023.6.1 新】[使用example中的快速回复sdk](examples/WeWorkBot/README.md)
 
 ## 安装
 
@@ -211,8 +211,3 @@ if __name__ == '__main__':
     app.exit()
 ```
 
-帮助&支持
--------------------------
-点击链接加入群聊[NtWork交流群](https://jq.qq.com/?_wv=1027&k=y8d0wpXJ)
-
-*注意：该群已解散*
